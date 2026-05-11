@@ -141,10 +141,10 @@ TextureImporter:
       name: Toko_Jump_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 8
-        width: 26
-        height: 47
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,10 +163,10 @@ TextureImporter:
       name: Toko_Jump_1
       rect:
         serializedVersion: 2
-        x: 84
-        y: 13
-        width: 29
-        height: 40
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: Toko_Jump_2
       rect:
         serializedVersion: 2
-        x: 150
-        y: 15
-        width: 28
-        height: 37
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,10 +207,10 @@ TextureImporter:
       name: Toko_Jump_3
       rect:
         serializedVersion: 2
-        x: 214
-        y: 10
-        width: 28
-        height: 42
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,10 +229,10 @@ TextureImporter:
       name: Toko_Jump_4
       rect:
         serializedVersion: 2
-        x: 279
-        y: 6
-        width: 29
-        height: 45
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,7 +251,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a9aebbb9e2183ae4e9a8b012ab80632e
     internalID: 0
     vertices: []
     indices: 
